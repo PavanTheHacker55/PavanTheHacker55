@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Pavan Kumar!
-I’m a Tech enthusiast, Hacker, and Programmer.
-
-I ❤️ to **inspire and educate** people in IT.
+I’m a Tech enthusiast, Hacker, and Programmer..
 
 
 ## 🛠️ Technologies and Tools
@@ -34,6 +32,9 @@ I ❤️ to **inspire and educate** people in IT.
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
+<p>
+<img alt="Message" src="https://img.shields.io/badge/-Hack%20The%20Hacker's%20Before%20Thay%20Hack%20You-5865F2?style=flat&logo=Hack%20The%20Hacker%27s%20Before%20Thay%20Hack%20You&logoColor=orange"/>
+</p>
 
 
 
