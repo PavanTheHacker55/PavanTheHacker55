@@ -4,7 +4,7 @@
 
 
 ## 🛠️ Technologies and Tools
-### DevOps & Cloud Technologies
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 <p> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-5865F2?style=flat&logo=javascript&logoColor=white"/>
@@ -20,7 +20,7 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### Infrastructure & Network Technologies
+## Infrastructure & Network Technologies
 <p>
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
   <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
