@@ -39,13 +39,26 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthehacker55)](https://github.com/pavanthehacker55/github-readme-stats)
+<a href="https://github.com/pavanthehacker55/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavanthehacker55&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/pavanthehacker55/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavanthehacker55&repo=convoychat" />
+</a>
+
+
+
+
+
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthehacker55)](https://github.com/pavanthehacker55/github-readme-stats)
 
 
 <p>
 <img alt="Message" src="https://img.shields.io/badge/-Hack%20The%20Hacker's%20Before%20Thay%20Hack%20You-5865F2?style=flat&logo=Hack%20The%20Hacker%27s%20Before%20Thay%20Hack%20You&logoColor=orange"/>
 </p>
-
+ -->
 
 
 
