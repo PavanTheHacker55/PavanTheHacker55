@@ -39,6 +39,11 @@
 
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthehacker55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **PavanTheHacker55/PavanTheHacker55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
