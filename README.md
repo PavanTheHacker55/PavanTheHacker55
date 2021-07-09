@@ -10,7 +10,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-EE0000?style=flat&logo=php&logoColor=yello"/>
   <img alt="C" src="https://img.shields.io/badge/-557C94?style=flat&logo=c&logoColor=red"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-557C94?style=flat&logo=java&logoColor=white"/>
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-5865F2?style=flat&logo=Bash&logoColor=orange" />
+  <img alt="Shell" src="https://img.shields.io/badge/-bash-5865F2?style=flat&logo=bash&logoColor=orange" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white" />
