@@ -39,7 +39,7 @@
 </p>
 
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true)
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=dark)
 
 
 <!-- <a href="https://github.com/pavanthehacker55/github-readme-stats">
