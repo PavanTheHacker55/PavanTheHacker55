@@ -4,14 +4,13 @@
 
 
 ## 🛠️ Technologies and Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 <p> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-5865F2?style=flat&logo=javascript&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-EE0000?style=flat&logo=php&logoColor=yello"/>
   <img alt="C" src="https://img.shields.io/badge/-557C94?style=flat&logo=c&logoColor=red"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-557C94?style=flat&logo=java&logoColor=white"/>
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-5865F2?style=flat&logo=shell&logoColor=orange" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-5865F2?style=flat&logo=Bash&logoColor=orange" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white" />
@@ -40,32 +39,6 @@
 
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=chartreuse-dark)
-
-
-<!-- <a href="https://github.com/pavanthehacker55/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavanthehacker55&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/pavanthehacker55/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pavanthehacker55&repo=convoychat" />
-</a> -->
-
-
-
-
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthehacker55)](https://github.com/pavanthehacker55/github-readme-stats)
-
-
-<p>
-<img alt="Message" src="https://img.shields.io/badge/-Hack%20The%20Hacker's%20Before%20Thay%20Hack%20You-5865F2?style=flat&logo=Hack%20The%20Hacker%27s%20Before%20Thay%20Hack%20You&logoColor=orange"/>
-</p>
- -->
-
-
-
-
 <!--
 **PavanTheHacker55/PavanTheHacker55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
