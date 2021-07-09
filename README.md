@@ -39,7 +39,8 @@
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=pavanthehacker55&theme=dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>
 <img alt="Message" src="https://img.shields.io/badge/-Hack%20The%20Hacker's%20Before%20Thay%20Hack%20You-5865F2?style=flat&logo=Hack%20The%20Hacker%27s%20Before%20Thay%20Hack%20You&logoColor=orange"/>
