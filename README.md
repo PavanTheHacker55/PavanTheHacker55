@@ -38,7 +38,7 @@
 </p>
 
 ## 📈  Git Stats
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=chartreuse-dark)
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=dracula)
 
 
 <!-- 
