@@ -30,7 +30,7 @@
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
 </p>
 
-## Productivity & Communication Tools
+## � Productivity & Communication Tools
 <p>
   <img alt="BraveBrowser" src="https://img.shields.io/badge/-BraveBrowser-FB542B?style=flat&logo=brave&logoColor=white" /> 
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
