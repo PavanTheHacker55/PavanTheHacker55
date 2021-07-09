@@ -30,7 +30,7 @@
   <img alt="WireShark" src="https://img.shields.io/badge/-WireShark-1679A7?style=flat&logo=wireshark&logoColor=white" /> 
 </p>
 
-### Productivity & Communication Tools
+## Productivity & Communication Tools
 <p>
   <img alt="BraveBrowser" src="https://img.shields.io/badge/-BraveBrowser-FB542B?style=flat&logo=brave&logoColor=white" /> 
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
@@ -39,13 +39,13 @@
 
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=chartreuse-dark)
-<p>
+<!-- <p>
   &nbsp;&nbsp;&nbsp;
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthehacker55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 
 
-
+ -->
 <!--
 **PavanTheHacker55/PavanTheHacker55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
