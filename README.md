@@ -39,9 +39,10 @@
 
 
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthehacker55&show_icons=true&theme=chartreuse-dark)
-
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthehacker55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  &nbsp;&nbsp;&nbsp;
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthehacker55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
