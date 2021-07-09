@@ -10,13 +10,13 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-EE0000?style=flat&logo=php&logoColor=yello"/>
   <img alt="C" src="https://img.shields.io/badge/-557C94?style=flat&logo=c&logoColor=red"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-557C94?style=flat&logo=java&logoColor=white"/>
-  <img alt="Shell" src="https://img.shields.io/badge/-bash-5865F2?style=flat&logo=bash&logoColor=orange" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Bash-5865F2?style=flat&logo=shell&logoColor=orange" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> 
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  
 </p>
 
 ## ❄ Infrastructure & Network Technologies
@@ -35,6 +35,9 @@
   <img alt="BraveBrowser" src="https://img.shields.io/badge/-BraveBrowser-FB542B?style=flat&logo=brave&logoColor=white" /> 
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=flat&logo=notion&logoColor=white" />
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-Sublime-557C94?style=flat&logo=sublime-text&logoColor=" />
+  <img alt="Terminal" src="https://img.shields.io/badge/-Bash-557C94?style=flat&logo=Windows%20Terminal&logoColor=" />
 </p>
 
 ## 📈  Git Stats
